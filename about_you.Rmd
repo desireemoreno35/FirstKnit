@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Desiree Moreno"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+All four years of high school I attend East side High school and graduated last year, class of 2022. I feel like there is a point in both where it becomes easy and hard for me. What I struggle most in English is the reading and comprehensions test. When it comes to math I don't really struggle as much. If I have a teacher who can show me step by step and help me with what I need help in than i'm usually fine. I say I do best in science. It really catches my mind since there is so much you can learn in that subject. You can go from learning anatomy and genetics to chemical bonds and acids. 
      
 
 
@@ -26,14 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+My computer is a Lenovo Chrome Book. I would say it's about a 5. I don't have much trouble with it but sometimes it can be slow. Im trying to get a Apple MacBook when I can financially afford one. The internet I have at home is pretty decent. I live on the far east side so we all really have decent connections here. Im still able to do my work on my laptop so its really no problem.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+Family and friends call me Des or Desi. I'm find with either names really, no specific ones. I tell everyone to call me by whichever name is easier to them. 
    
  
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+Some things I would like to achieve in life is finishing college so I can get a good paying job to help my family become financially stabled with no worries. Out of all college subjects I'm currently taking, I would say my Biology 120 class is what's interesting to me. 
    
  
 
@@ -55,8 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
-   
+  No I have not gone to a foreign country. Where I would like to go in the future is Spain, the country is just so beautiful and I would love to see where my dad's family comes from. No I have never been in the military. Me personally I wouldn't want to join any branch, the military just isn't my thing. But if I had to choose I would say the Army since it does have more benefits. 
   
 
 
@@ -68,7 +67,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+  I'm currently taking Math 115. No I didnt know there was a difference. Nobody helped me with picking me classes or finical aid. The grade I would like to attain is a B or higher. My plan is to turn all my work,attend class when im supposed to and lastly past all the quiz's with a good score.
    
  
 
